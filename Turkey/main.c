@@ -17,7 +17,7 @@ int main(int argc, const char * argv[])
     weight = 14.2;
     
     //Log it to the user
-    printf("The turkey weighs %f./n", weight);
+    printf("The turkey weighs %f.\n", weight);
     
     //Decalre another variable of type float
     float cookingTime;
