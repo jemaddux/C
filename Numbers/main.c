@@ -12,7 +12,8 @@ int main(int argc, const char * argv[])
 {
 
     // insert code here...
-    printf("Hello, World!\n");
+    int derp = 88;
+    printf("derp the integer is %d.",derp);
     return 0;
 }
 
